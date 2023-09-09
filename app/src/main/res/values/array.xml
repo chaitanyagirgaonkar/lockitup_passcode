@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="choose_lock_array">
+        <item>6-Digit Pin</item>
+        <item>4-Digit Pin</item>
+        <item>Pattern</item>
+    </string-array>
+</resources>
